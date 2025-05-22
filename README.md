@@ -102,3 +102,4 @@ Scaling refers to increasing the number of parameters, data, and computational r
 
 
 # Result
+Generative AI and LLMs are revolutionizing the way we interact with machines, create content, and automate tasks. While the technology offers immense potential, it also poses significant ethical and societal challenges. Ongoing research and responsible development are critical to ensuring its positive impact.
